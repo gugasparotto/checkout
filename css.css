@@ -1,0 +1,248 @@
+footer {
+    
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+h4{
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-family: Rubik,sans-serif;
+    text-align: left;
+    cursor: default;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-weight: 700;
+    font-size: 17px;
+    color: #666!important;
+    top: 1px;
+    line-height: 21px;
+}
+.box-checkout{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    text-align: start;
+    font-size: 100%;
+    vertical-align: baseline;
+    width: 100%;
+    position: relative;
+    padding: 27px 21px 23px;
+    margin: 0 0 20px;
+    background: #FFF;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: all .2s;
+    cursor: default;
+    border-color: #999;
+    opacity: 1;
+}
+.delivery {
+        -webkit-text-size-adjust: 100%;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    text-align: start;
+    font-size: 100%;
+    vertical-align: baseline;
+    width: 100%;
+    position: relative;
+    padding: 27px 21px 23px;
+    margin: 0 0 20px;
+    background: #FFF;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: all .2s;
+    cursor: default;
+    border-color: #999;
+    opacity: 1;
+}
+#saved-customer{
+        -webkit-text-size-adjust: 100%;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    text-align: start;
+    font-size: 100%;
+    vertical-align: baseline;
+    width: 100%;
+    position: relative;
+    padding: 27px 21px 23px;
+    margin: 0 0 20px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: all .2s;
+    cursor: pointer;
+    background: #F9FDF7;
+}
+.form-group w-100{
+        -webkit-text-size-adjust: 100%;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    cursor: default;
+    text-align: left;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    padding: 0 7px;
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+    margin: 9px 0;
+    width: 100%;
+}
+.form-group w-50{
+        -webkit-text-size-adjust: 100%;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    cursor: default;
+    text-align: left;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    width: 50%;
+    padding: 0 7px;
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+    margin: 9px 0;
+}
+.diminui{
+        -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    text-align: start;
+    cursor: default;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-size: 12px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #666!important;
+    line-height: 1.4;
+}
+.center{
+    text-align: center;
+}
+.label-control{
+         -webkit-text-size-adjust: 100%;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    display: block;
+    margin-bottom: 6px;
+    color: #333;
+    font-size: 13px;
+}
+.cidade{
+        -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-weight: 400;
+    font-family: Rubik,sans-serif;
+    cursor: default;
+    text-align: left;
+    color: #666!important;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.margin{
+    margin: 5px 5px 5px 5px;
+}
+.display-none{
+    display: none;
+}
+.display-block{
+    display: block;
+}
+.title-checkout{
+        -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-family: Rubik,sans-serif;
+    text-align: start;
+    cursor: default;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-size: 18px;
+    font-weight: 700;
+    color: #666!important;
+    position: relative;
+    top: 1px;
+    line-height: 21px;
+}
+.holder-number{
+        -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 0 1px rgba(0,0,0,.01);
+    -webkit-text-stroke: 1px transparent;
+    font-family: Rubik,sans-serif;
+    cursor: default;
+    margin:0;
+    margin-right: 3px;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    width: 21px;
+    height: 21px;
+    
+    line-height: 22px;
+    text-align: center;
+    color: #FFF;
+    border-radius: 50%;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-weight: 700;
+    background-color: #333;
+}
+.title-flex{
+     display: flex;
+  align-items: stretch;
+}
